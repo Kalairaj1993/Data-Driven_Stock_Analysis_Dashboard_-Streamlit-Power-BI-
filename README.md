@@ -214,6 +214,7 @@ Pull requests and issue submissions are welcome.
 
 For queries or collaboration:
 **Kalairaj — Data Analyst & Developer**
-📧 For queries: *(Mail to : rajfreelancer1993@gmail.com)*
+
+📧 *(Mail to : rajfreelancer1993@gmail.com)*
 
 ---
