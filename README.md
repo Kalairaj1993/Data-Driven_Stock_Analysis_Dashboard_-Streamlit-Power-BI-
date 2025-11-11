@@ -2,9 +2,7 @@
 
 # 📊 **Data-Driven Stock Analysis Dashboard (Streamlit & Power BI)**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushsangani/data-visualization-banners/main/banner-stock-analysis.png" alt="Stock Analysis Banner" width="100%">
-</p>
+![Data-Driven Stock Analysis](https://img.shields.io/badge/Data--Driven%20Stock%20Analysis-Dashboard-blue?style=for-the-badge)
 
 ---
 
