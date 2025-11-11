@@ -14,8 +14,6 @@ The goal is to deliver a scalable, efficient, and insight-rich dashboard for inv
 
 ---
 
-## 🏷️ **Badges**
-
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Dashboard-red)
@@ -30,20 +28,20 @@ The goal is to deliver a scalable, efficient, and insight-rich dashboard for inv
 * **End-to-End Data Pipeline**
 
   * Data acquisition, cleaning, transformation, and storage.
+    
 * **Performance Analysis**
-
   * Yearly return calculations.
   * Top 10 gainers and losers.
+    
 * **Market-Level Insights**
-
   * Average price.
   * Average volume.
   * Green vs. Red stock distribution.
+    
 * **Volatility Analysis**
-
   * Daily price fluctuations.
+    
 * **Interactive Dashboards**
-
   * Real-time visuals in Streamlit.
   * Advanced analytics in Power BI.
 
